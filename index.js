@@ -7,7 +7,6 @@ function test() {
 var x = a;
     a = b;
     b = x;
-
     
 /***********Do not change the code below 👇*******/
 
