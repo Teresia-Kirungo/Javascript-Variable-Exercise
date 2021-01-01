@@ -5,4 +5,4 @@ n = Math.random();
 n = n * 100;
 n = Math.floor(n);
 
-console.log( n + "%" + " is the love percentage between " + name1 + " and " + name2 " ." );
+console.log("The love percentage between " + name1 + " and " + name2 + " is " + n +  "%." );
